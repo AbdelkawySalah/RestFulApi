@@ -1,0 +1,8 @@
+
+http://restapi.test/api/v1/category/add
+
+http://restapi.test/api/v1/category/update
+
+http://restapi.test/api/v1/category/delete
+
+http://restapi.test/api/v1/category/all
